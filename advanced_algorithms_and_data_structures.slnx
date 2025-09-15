@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="advanced_algorithms_and_data_structures/advanced_algorithms_and_data_structures.vcxproj" Id="fc5f040e-8501-41c3-932d-f634db4d6665" />
+</Solution>
