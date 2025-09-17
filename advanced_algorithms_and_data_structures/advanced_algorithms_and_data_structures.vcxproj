@@ -149,6 +149,7 @@
     <ResourceCompile Include="advanced_algorithms_and_data_structures.rc" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="k_th_zero_input.txt" />
     <Text Include="square_string_input.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

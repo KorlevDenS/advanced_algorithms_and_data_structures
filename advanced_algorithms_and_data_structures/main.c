@@ -18,8 +18,8 @@ int main() {
 	
 	AlgTask alg_tasks[] = {
 		//{ "Test", test},
-		{"Square string?", square_string},
-		//{"K-th zero", k_th_zero}
+		//{"Square string?", square_string},
+		{"K-th zero", k_th_zero}
 	};
 
 	int tasks_count = sizeof(alg_tasks) / sizeof(alg_tasks[0]);

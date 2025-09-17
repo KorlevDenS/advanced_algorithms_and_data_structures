@@ -52,5 +52,6 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="square_string_input.txt" />
+    <Text Include="k_th_zero_input.txt" />
   </ItemGroup>
 </Project>
